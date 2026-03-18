@@ -60,6 +60,3 @@ src/
     store.ts              # Zustand state with graph serialization
 ```
 
-## License
-
-MIT
